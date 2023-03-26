@@ -5,6 +5,6 @@ download code：q5bo
 
 
 
-![data set example](fig1.PNG)
+![data set example](fig1.png)
 
 
