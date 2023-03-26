@@ -5,6 +5,6 @@ download code：q5bo
 
 
 
-![data set example](chromosome-instance-segmentation-dataset/fig1.PNG)
+![data set example](fig1.PNG)
 
 
